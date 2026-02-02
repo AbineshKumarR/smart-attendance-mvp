@@ -6,3 +6,12 @@ The faculty creates a time-bounded attendance session with a single click, gener
 Students can mark attendance by scanning the QR or manually entering the session ID.
 It also includes a faculty analytics dashboard where faculty can see attendance percentages and download CSV export. 
 Toggling light / dark mode feature is added for interactivity.
+
+Tech Stack :
+Frontend - React.js, CSS(custom UI), HTML5 QR Scanner (html5-qrcode)
+Backend - Node.js, Express,js
+Database - In-memory storage
+
+Author :
+Abinesh Kumar R
+Computer Science Engineering
